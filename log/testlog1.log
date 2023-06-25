@@ -194,3 +194,7 @@
 2023-06-25 17:22:04,988 [main] INFO ebanking - Enter user name
 2023-06-25 17:22:05,203 [main] INFO ebanking - Enter password
 2023-06-25 17:22:05,822 [main] INFO ebanking - adding new customer details
+2023-06-25 17:30:57,053 [main] INFO ebanking - url is opened
+2023-06-25 17:30:57,350 [main] INFO ebanking - Enter user name
+2023-06-25 17:30:57,539 [main] INFO ebanking - Enter password
+2023-06-25 17:30:58,206 [main] INFO ebanking - adding new customer details

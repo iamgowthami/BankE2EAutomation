@@ -1,0 +1,196 @@
+2023-06-02 15:33:15,061 [main] INFO ebanking - url is opened
+2023-06-02 15:33:20,079 [main] INFO ebanking - Enter user name
+2023-06-02 15:33:20,442 [main] INFO ebanking - Enter password
+2023-06-02 15:33:27,070 [main] INFO ebanking - login test passed
+2023-06-02 15:34:33,657 [main] INFO ebanking - url is opened
+2023-06-02 15:34:33,952 [main] INFO ebanking - Enter user name
+2023-06-02 15:34:34,253 [main] INFO ebanking - Enter password
+2023-06-04 14:33:20,012 [main] INFO ebanking - url is opened
+2023-06-04 14:33:21,712 [main] INFO ebanking - Enter user name
+2023-06-04 14:33:21,979 [main] INFO ebanking - Enter password
+2023-06-04 14:33:25,121 [main] INFO ebanking - login test passed
+2023-06-04 16:32:07,362 [main] INFO ebanking - url is opened
+2023-06-04 16:32:09,923 [main] INFO ebanking - Enter user name
+2023-06-04 16:32:10,251 [main] INFO ebanking - Enter password
+2023-06-04 16:32:14,432 [main] INFO ebanking - login test passed
+2023-06-04 16:45:51,271 [main] INFO ebanking - url is opened
+2023-06-04 16:45:54,723 [main] INFO ebanking - Enter user name
+2023-06-04 16:45:54,915 [main] INFO ebanking - Enter password
+2023-06-04 16:45:58,128 [main] INFO ebanking - login test passed
+2023-06-04 16:49:16,867 [main] INFO ebanking - url is opened
+2023-06-04 16:49:17,170 [main] INFO ebanking - Enter user name
+2023-06-04 16:49:17,444 [main] INFO ebanking - Enter password
+2023-06-04 16:49:26,874 [main] INFO ebanking - login test passed
+2023-06-05 10:55:59,591 [main] INFO ebanking - url is opened
+2023-06-05 10:56:01,877 [main] INFO ebanking - Enter user name
+2023-06-05 10:56:02,393 [main] INFO ebanking - Enter password
+2023-06-05 10:56:07,590 [main] INFO ebanking - login test passed
+2023-06-05 12:14:01,557 [main] INFO ebanking - url is opened
+2023-06-05 12:14:09,096 [main] INFO ebanking - Enter user name
+2023-06-05 12:14:09,442 [main] INFO ebanking - Enter password
+2023-06-05 16:46:46,602 [main] INFO ebanking - url is opened
+2023-06-05 16:46:49,445 [main] INFO ebanking - Enter user name
+2023-06-05 16:46:49,616 [main] INFO ebanking - Enter password
+2023-06-05 16:47:05,128 [main] INFO ebanking - adding new customer details
+2023-06-05 16:47:45,158 [main] INFO ebanking - url is opened
+2023-06-05 16:47:45,544 [main] INFO ebanking - Enter user name
+2023-06-05 16:47:46,009 [main] INFO ebanking - Enter password
+2023-06-05 16:47:48,900 [main] INFO ebanking - adding new customer details
+2023-06-05 16:49:33,486 [main] INFO ebanking - url is opened
+2023-06-05 16:49:37,891 [main] INFO ebanking - Enter user name
+2023-06-05 16:49:38,202 [main] INFO ebanking - Enter password
+2023-06-05 16:49:48,458 [main] INFO ebanking - adding new customer details
+2023-06-05 17:06:19,098 [main] INFO ebanking - url is opened
+2023-06-05 17:06:24,112 [main] INFO ebanking - Enter user name
+2023-06-05 17:06:24,232 [main] INFO ebanking - Enter password
+2023-06-05 17:06:28,723 [main] INFO ebanking - adding new customer details
+2023-06-05 17:16:12,932 [main] INFO ebanking - url is opened
+2023-06-05 17:16:15,718 [main] INFO ebanking - Enter user name
+2023-06-05 17:16:15,954 [main] INFO ebanking - Enter password
+2023-06-05 17:16:28,609 [main] INFO ebanking - adding new customer details
+2023-06-05 17:21:05,319 [main] INFO ebanking - url is opened
+2023-06-05 17:21:09,129 [main] INFO ebanking - Enter user name
+2023-06-05 17:21:09,486 [main] INFO ebanking - Enter password
+2023-06-05 17:21:13,116 [main] INFO ebanking - adding new customer details
+2023-06-05 17:21:15,993 [main] INFO ebanking - adding new customer name
+2023-06-05 17:23:56,576 [main] INFO ebanking - url is opened
+2023-06-05 17:23:56,932 [main] INFO ebanking - Enter user name
+2023-06-05 17:23:57,104 [main] INFO ebanking - Enter password
+2023-06-05 17:23:58,462 [main] INFO ebanking - adding new customer details
+2023-06-05 17:23:59,180 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 17:24:45,217 [main] INFO ebanking - url is opened
+2023-06-05 17:24:45,442 [main] INFO ebanking - Enter user name
+2023-06-05 17:24:45,613 [main] INFO ebanking - Enter password
+2023-06-05 17:24:47,301 [main] INFO ebanking - adding new customer details
+2023-06-05 17:24:48,496 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 17:25:38,076 [main] INFO ebanking - url is opened
+2023-06-05 17:25:38,327 [main] INFO ebanking - Enter user name
+2023-06-05 17:25:38,560 [main] INFO ebanking - Enter password
+2023-06-05 17:25:40,150 [main] INFO ebanking - adding new customer details
+2023-06-05 17:25:41,141 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 17:53:25,506 [main] INFO ebanking - url is opened
+2023-06-05 17:53:38,369 [main] INFO ebanking - Enter user name
+2023-06-05 17:53:38,507 [main] INFO ebanking - Enter password
+2023-06-05 17:54:20,421 [main] INFO ebanking - adding new customer details
+2023-06-05 17:54:20,529 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 17:55:28,545 [main] INFO ebanking - url is opened
+2023-06-05 17:55:28,956 [main] INFO ebanking - Enter user name
+2023-06-05 17:55:29,083 [main] INFO ebanking - Enter password
+2023-06-05 17:55:32,404 [main] INFO ebanking - adding new customer details
+2023-06-05 17:55:32,712 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:05:58,143 [main] INFO ebanking - url is opened
+2023-06-05 18:05:58,427 [main] INFO ebanking - Enter user name
+2023-06-05 18:05:58,747 [main] INFO ebanking - Enter password
+2023-06-05 18:06:04,967 [main] INFO ebanking - adding new customer details
+2023-06-05 18:06:05,259 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:13:05,356 [main] INFO ebanking - url is opened
+2023-06-05 18:13:05,854 [main] INFO ebanking - Enter user name
+2023-06-05 18:13:06,013 [main] INFO ebanking - Enter password
+2023-06-05 18:13:11,538 [main] INFO ebanking - adding new customer details
+2023-06-05 18:13:11,653 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:18:11,314 [main] INFO ebanking - url is opened
+2023-06-05 18:18:11,576 [main] INFO ebanking - Enter user name
+2023-06-05 18:18:11,753 [main] INFO ebanking - Enter password
+2023-06-05 18:18:13,658 [main] INFO ebanking - adding new customer details
+2023-06-05 18:18:14,628 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:19:14,829 [main] INFO ebanking - url is opened
+2023-06-05 18:19:15,221 [main] INFO ebanking - Enter user name
+2023-06-05 18:19:15,371 [main] INFO ebanking - Enter password
+2023-06-05 18:19:24,242 [main] INFO ebanking - adding new customer details
+2023-06-05 18:19:24,335 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:21:25,323 [main] INFO ebanking - url is opened
+2023-06-05 18:21:25,574 [main] INFO ebanking - Enter user name
+2023-06-05 18:21:25,817 [main] INFO ebanking - Enter password
+2023-06-05 18:21:30,412 [main] INFO ebanking - adding new customer details
+2023-06-05 18:21:30,595 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-05 18:27:13,603 [main] INFO ebanking - url is opened
+2023-06-05 18:27:13,862 [main] INFO ebanking - Enter user name
+2023-06-05 18:27:14,066 [main] INFO ebanking - Enter password
+2023-06-05 18:27:17,707 [main] INFO ebanking - adding new customer details
+2023-06-05 18:27:43,939 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-06 10:11:38,455 [main] INFO ebanking - url is opened
+2023-06-06 10:11:42,039 [main] INFO ebanking - Enter user name
+2023-06-06 10:11:42,471 [main] INFO ebanking - Enter password
+2023-06-06 10:11:46,961 [main] INFO ebanking - adding new customer details
+2023-06-06 10:11:47,547 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-06 10:13:20,979 [main] INFO ebanking - url is opened
+2023-06-06 10:13:21,703 [main] INFO ebanking - Enter user name
+2023-06-06 10:13:21,886 [main] INFO ebanking - Enter password
+2023-06-06 10:13:27,170 [main] INFO ebanking - adding new customer details
+2023-06-06 10:13:27,353 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-06 10:39:08,679 [main] INFO ebanking - url is opened
+2023-06-06 10:41:41,460 [main] INFO ebanking - url is opened
+2023-06-06 10:41:41,840 [main] INFO ebanking - Enter user name
+2023-06-06 10:41:42,000 [main] INFO ebanking - Enter password
+2023-06-06 10:41:46,379 [main] INFO ebanking - adding new customer details
+2023-06-06 10:41:46,480 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 11:39:53,108 [main] INFO ebanking - url is opened
+2023-06-12 11:39:54,130 [main] INFO ebanking - Enter user name
+2023-06-12 11:39:54,361 [main] INFO ebanking - Enter password
+2023-06-12 11:40:01,060 [main] INFO ebanking - adding new customer details
+2023-06-12 11:40:01,219 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 11:48:08,173 [main] INFO ebanking - url is opened
+2023-06-12 11:48:08,415 [main] INFO ebanking - Enter user name
+2023-06-12 11:48:08,581 [main] INFO ebanking - Enter password
+2023-06-12 11:48:19,144 [main] INFO ebanking - adding new customer details
+2023-06-12 11:48:19,252 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 11:57:06,464 [main] INFO ebanking - url is opened
+2023-06-12 11:57:06,943 [main] INFO ebanking - Enter user name
+2023-06-12 11:57:07,196 [main] INFO ebanking - Enter password
+2023-06-12 11:57:13,665 [main] INFO ebanking - adding new customer details
+2023-06-12 11:57:13,833 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:00:10,105 [main] INFO ebanking - url is opened
+2023-06-12 12:00:10,540 [main] INFO ebanking - Enter user name
+2023-06-12 12:00:10,814 [main] INFO ebanking - Enter password
+2023-06-12 12:00:15,347 [main] INFO ebanking - adding new customer details
+2023-06-12 12:00:15,524 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:08:54,994 [main] INFO ebanking - url is opened
+2023-06-12 12:08:55,298 [main] INFO ebanking - Enter user name
+2023-06-12 12:08:55,506 [main] INFO ebanking - Enter password
+2023-06-12 12:09:00,204 [main] INFO ebanking - adding new customer details
+2023-06-12 12:09:00,309 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:10:31,798 [main] INFO ebanking - url is opened
+2023-06-12 12:10:32,041 [main] INFO ebanking - Enter user name
+2023-06-12 12:10:32,215 [main] INFO ebanking - Enter password
+2023-06-12 12:10:40,713 [main] INFO ebanking - adding new customer details
+2023-06-12 12:10:40,829 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:27:26,966 [main] INFO ebanking - url is opened
+2023-06-12 12:27:27,455 [main] INFO ebanking - Enter user name
+2023-06-12 12:27:27,656 [main] INFO ebanking - Enter password
+2023-06-12 12:27:29,650 [main] INFO ebanking - adding new customer details
+2023-06-12 12:27:29,996 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:28:11,257 [main] INFO ebanking - url is opened
+2023-06-12 12:28:11,491 [main] INFO ebanking - Enter user name
+2023-06-12 12:28:11,658 [main] INFO ebanking - Enter password
+2023-06-12 12:28:13,254 [main] INFO ebanking - adding new customer details
+2023-06-12 12:28:13,397 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:28:56,648 [main] INFO ebanking - url is opened
+2023-06-12 12:28:56,975 [main] INFO ebanking - Enter user name
+2023-06-12 12:28:57,110 [main] INFO ebanking - Enter password
+2023-06-12 12:29:01,023 [main] INFO ebanking - adding new customer details
+2023-06-12 12:29:01,118 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-12 12:41:55,899 [main] INFO ebanking - url is opened
+2023-06-12 12:42:00,265 [main] INFO ebanking - Enter user name
+2023-06-12 12:42:00,364 [main] INFO ebanking - Enter password
+2023-06-12 12:42:04,207 [main] INFO ebanking - adding new customer details
+2023-06-12 12:42:04,308 [main] INFO ebanking - Click on addnewcustomer link
+2023-06-25 15:12:24,645 [main] INFO ebanking - url is opened
+2023-06-25 15:12:25,522 [main] INFO ebanking - Enter user name
+2023-06-25 15:12:25,865 [main] INFO ebanking - Enter password
+2023-06-25 15:12:26,626 [main] INFO ebanking - adding new customer details
+2023-06-25 15:13:21,233 [main] INFO ebanking - url is opened
+2023-06-25 15:13:21,549 [main] INFO ebanking - Enter user name
+2023-06-25 15:13:21,663 [main] INFO ebanking - Enter password
+2023-06-25 15:13:22,293 [main] INFO ebanking - adding new customer details
+2023-06-25 15:34:17,837 [main] INFO ebanking - url is opened
+2023-06-25 15:34:19,586 [main] INFO ebanking - Enter user name
+2023-06-25 15:34:19,679 [main] INFO ebanking - Enter password
+2023-06-25 15:34:22,404 [main] INFO ebanking - adding new customer details
+2023-06-25 17:17:31,121 [main] INFO ebanking - url is opened
+2023-06-25 17:17:32,358 [main] INFO ebanking - Enter user name
+2023-06-25 17:17:32,496 [main] INFO ebanking - Enter password
+2023-06-25 17:17:33,779 [main] INFO ebanking - adding new customer details
+2023-06-25 17:22:04,571 [main] INFO ebanking - url is opened
+2023-06-25 17:22:04,988 [main] INFO ebanking - Enter user name
+2023-06-25 17:22:05,203 [main] INFO ebanking - Enter password
+2023-06-25 17:22:05,822 [main] INFO ebanking - adding new customer details
